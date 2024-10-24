@@ -3,6 +3,11 @@ body{
     color: white;
 }
 
+header {
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
 section{
     background:rgb(221, 0, 255);
     padding-top: 1%;
@@ -14,3 +19,4 @@ section{
 .chamada_texto{
     margin-right: 1%;
 }
+
