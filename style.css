@@ -27,5 +27,5 @@ img{
 .categorias_videos{
     display: flex;
     overflow: auto;
-    gap: 10px;
+    gap: 15px;
 }
